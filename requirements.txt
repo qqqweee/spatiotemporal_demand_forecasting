@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+catboost
+pygeohash
+matplotlib
+seaborn
+jupyter
